@@ -23,6 +23,7 @@ ugen=[]
 cokbrut=[]
 ses=requests.Session()
 princp=[]
+sys.stdout.write('\x1b]2; MBF | Q'jack\x07')
 try:
 	prox= requests.get('https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/socks5.txt').text
 	open('.prox.txt','w').write(prox)
