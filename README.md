@@ -11,3 +11,7 @@ pip install stdiomask
 pip install --upgrade pip
 
 git clone https://github.com/jamalnggau1/memek
+
+cd memek
+
+python Qjack.py
