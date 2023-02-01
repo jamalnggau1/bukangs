@@ -10,8 +10,8 @@ pip install stdiomask
 
 pip install --upgrade pip
 
-git clone https://github.com/jamalnggau1/memek
+git clone https://github.com/jamalnggau1/brutefb
 
-cd memek
+cd brutefb
 
 python Qjack.py
